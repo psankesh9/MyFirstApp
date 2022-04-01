@@ -1,0 +1,2 @@
+# MyFirstApp
+Followed AndroidStudios Tutorial
